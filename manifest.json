@@ -1,0 +1,11 @@
+{
+  "modSlotComida/content/blob0.bundle": "dc42defe09e85f2486b6524d2859716e3fe62d461a77fadd97fcd2b7ceff27cf",
+  "modSlotComida/content/info.json": "952cf78a2e0a2f19e96794ff4ba2b32647a52ef7e006f2385774c8e6f7df867e",
+  "modSlotComida/content/metadata.store": "e2d2ee4df83440a87a5adf04a8c610053644205183a260e8861deba2a6f213e9",
+  "modSlotComida/content/scripts/game/gui/hud/modules/hudModuleItemInfo.ws": "69b4b51d5e475d8e370d8c86e993433834c464f9f9a46e60e4c08b7c1f5968f7",
+  "modSlotComida/content/scripts/game/gui/main_menu/ingamemenu/igmOptions.ws": "0a50a52e55cb3fd4d0689b8e2ae12475fb2b7d0397c4ae0b1be61a0d3927c8cb",
+  "modSlotComida/content/scripts/game/gui/menus/inventoryMenu.ws": "ab3bc30550c0380c65d12c339fd4a1050ba5e31b264668cc55f4ab16c68617d5",
+  "modSlotComida/content/scripts/game/gui/popups/ItemSelectionPopup.ws": "89b181bbc6b5d344b9eaef30c50fa021640b54cd0f6069cf8b3a5de1b864968c",
+  "modSlotComida/content/scripts/game/player/playerInput.ws": "421731e7b0c50a5761706dedd00a9ffe6f0333478c71083c966ef51d37dc8971",
+  "modSlotComida/content/scripts/game/player/playerWitcher.ws": "a29f784c6eba6a5310b3ca9d3d669d41b9cb8ac0ad7b4d0c969499045191f90a"
+}

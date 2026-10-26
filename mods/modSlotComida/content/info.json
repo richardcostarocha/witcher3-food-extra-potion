@@ -1,0 +1,16 @@
+{
+  "name": "modSlotComida",
+  "modName": "Comida + Poção Extra",
+  "version": "0.5.4",
+  "gameVersion": "29",
+  "description": "Cinco poções/elixires e um espaço exclusivo de comida, com atalhos remapeáveis e suporte a controle.",
+  "thumbnail": "",
+  "author": "yero_gamer",
+  "idSpace": 10000000,
+  "workshopId": 3816490233,
+  "succesfullyCooked": false,
+  "dependencies": [],
+  "useLooseScripts": true,
+  "excludedDlc": [],
+  "dirtyTileCellIndices": {}
+}

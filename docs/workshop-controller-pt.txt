@@ -1,0 +1,2 @@
+[h2]Suporte a controle — versão 0.5.4[/h2]
+Os espaços extras de poção/elixir e comida agora têm suporte a controle, seguindo os comandos originais do jogo. Também podem ser gerenciados pelo inventário e pelo menu radial. Os atalhos personalizados de teclado e mouse continuam disponíveis.

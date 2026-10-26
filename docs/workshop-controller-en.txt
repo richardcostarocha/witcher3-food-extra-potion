@@ -1,0 +1,2 @@
+[h2]Controller support — version 0.5.4[/h2]
+The extra potion/decoction and food slots now support controllers using the game's original controls. They can also be managed through the inventory and radial menu. Custom keyboard and mouse bindings remain available.
